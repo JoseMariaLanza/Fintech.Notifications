@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Notifications.API\\Notifications.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Notifications.Consumer\\Notifications.Consumer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
